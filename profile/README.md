@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ### The plcDOL Project
-### 2023 KNU Capston Design Project
-#### Develop Automotive driving Car System with Robot Operating System.
+### 2023 KNU mobility capston project -
+#### Implements moving-charger cart & solution
 
 <!--
 
