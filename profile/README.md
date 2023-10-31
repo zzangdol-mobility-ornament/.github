@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-### The plcDOL Project
-### 2023 KNU mobility capston project -
+### Zzangdol
+### 2023 KNU mobility ornament project -
 #### Implements moving-charger cart & solution
 
 <!--
